@@ -29,9 +29,11 @@ My current specialties are JavaScript, Vanilla CSS, HTML, Ruby, React, and jQuer
 I like coding and cooking and food + bev marketing.
 
 ## Find me here:
+<p align="left">
 <a href="https://www.linkedin.com/in/kate-bennert/" target="blank"><img align="center" src="https://github.com/katebennert/katebennert/assets/105064505/574f229d-8c55-49e8-9cce-cdd509da7c6a" height="50" /></a>
 <a href="https://twitter.com/katebennert" target="blank"><img align="center" src="https://github.com/katebennert/katebennert/assets/105064505/eefcb97d-ed40-40bb-bde1-12576505d688" height="50" /></a>
 <a href="https://www.instagram.com/katebenz/" target="blank"><img align="center" src="https://github.com/katebennert/katebennert/assets/105064505/8dca5889-ea7b-4d19-ab4a-2aa700f32371" height="50" /></a>
 <a href="https://discord.com/" target="blank"><img align="center" src="https://github.com/katebennert/katebennert/assets/105064505/91034648-cd45-4e6c-8b6f-eed75f35fc15" height="50" /></a>
 <a href="https://dev.to/katebennert" target="blank"><img align="center" src="https://github.com/katebennert/katebennert/assets/105064505/712d43be-a885-4624-8580-400bd37db789" height="50" /></a>
+</p>
 
